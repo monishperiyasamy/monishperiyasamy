@@ -21,7 +21,7 @@ Driven Software Engineer with a Passion for Innovation
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxi8m2m7oR9o3g0Y2gYP4YP84D4yKqlqSbWNyb8yrNbzcHW1p2frlcUBs2FnJAA6Mu9zQ&usqp=CAU" alt="College Logo" width="40">  Sri Krishna College Of Technology, Coimbatore, Tamilnadu      
   
  **Graduation:** 2025   
- **Percentage:** 8.04  
+ **Percentage:** 8.1 
  ##
   
 
